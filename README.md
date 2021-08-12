@@ -1,6 +1,6 @@
 - Hi, I’m @blockchaineddev
 - I’m interested in Design, Development, Blockchain Tech, Crypto
-- I’m currently learning Javascript and Solidity
+- I’m currently learning Javascript and Firebase
 - You can reach me via my email: blockchaineddev@gmail.com
 
 <!---
