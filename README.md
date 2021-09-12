@@ -1,5 +1,4 @@
 - Hi, I’m @blockchaineddev
-- I’m interested in Design, Development, Blockchain Tech, Crypto
 - I’m currently learning React and Firebase
 - I write about crypto on medium: https://blockchaineddev.medium.com/
 - You can reach me via my email: blockchaineddev@gmail.com
